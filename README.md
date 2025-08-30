@@ -34,7 +34,7 @@ This project involves a comprehensive analysis of NBA Draft Combine data from 20
 
 ---
 
-# Vervebridge-Task2-Big Game Census Data Visualization
+# Task2-Big Game Census Data Visualization
  Task 2 of Vervebridge internship Data Analytics
   Here’s a **GitHub README** template for your Power BI project:
 ## 📊 Project Overview
@@ -69,7 +69,7 @@ Here's a template for your GitHub README file that includes a project overview, 
 
 ---
 
-# Power BI Dashboard for Vervebridge Internship - Task 3
+# Task 3- Power BI Dashboard for Vervebridge Internship 
 
 ## Project Overview
 
