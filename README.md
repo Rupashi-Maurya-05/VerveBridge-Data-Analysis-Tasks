@@ -1,4 +1,4 @@
-# Task1- NBA Draft Combine Data Analysis (2009-2017)
+# Task 1- NBA Draft Combine Data Analysis (2009-2017)
 Task 1 of vervebridge Internship (August 2024) Data Analytics
 
 **Project Overview:** 
@@ -34,7 +34,7 @@ This project involves a comprehensive analysis of NBA Draft Combine data from 20
 
 ---
 
-# Task2-Big Game Census Data Visualization
+# Task 2-Big Game Census Data Visualization
  Task 2 of Vervebridge internship Data Analytics
   Here’s a **GitHub README** template for your Power BI project:
 ## 📊 Project Overview
